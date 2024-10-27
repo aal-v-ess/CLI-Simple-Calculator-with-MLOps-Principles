@@ -35,5 +35,4 @@ tokenizers==0.12.1
 torch==1.12.1
 torchvision==0.13.1
 tensorflow==2.10.0
-
-
+ruff==0.7.1
